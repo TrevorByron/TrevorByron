@@ -1,4 +1,4 @@
-##**👋 About me**
+## **👋 About me**
 
 Hi, I’m @TrevorByron. I’m a big fan of async work practices and remote culture (my family lives all over the world and I do a lot of traveling to stay connected with them. Async+Remote has been very beneficial in staying connected with the people that mean the most to me). 
 
@@ -12,7 +12,7 @@ I currently work as a Senior UX Designer at Toro TMS.
 Outside of work, I love riding mountain bikes and making things with my hands. 
 I travel to Tanzania once a year to spend time with family. 
 
-##**👨‍💻How I work**
+## **👨‍💻How I work**
 * Current Timezone - California Time  
 * Work Hours - 8:30am - 4:30pm 
 * Make Designs, not Meetings - As a designer, my primary work is to discover and create. I try block out my entire afternoons (1pm - 5pm) to design and not meet. I turn off my notifications so that I can better get into the flow. Please expect my responses on slack or email to be asynchronous during these hours. 
@@ -20,7 +20,7 @@ I travel to Tanzania once a year to spend time with family.
 * Collaboration - As much as I love working asynchronously,  I love collaborating. If we are both online, I’m very happy to jump on a call with you and work a problem out in the moment. 
 * Prototyping - As much as I can, I design in HTML and CSS. I’m a fan of Figma and other design tools but I feel like I can better communicate a design vision with clickable prototypes. 
 
-##**📫 How to reach me**
+## **📫 How to reach me**
 
 * Slack - Direct messages or mentions work great during the day. I keep Slack openall day but turn off notifications during my focus design hours (1pm - 5pm), so it may take some time before I respond.  
 * Meetings - I’m happy to meet on zoom as much as necessary, but I’ll prioritize productivity over habit and will decline meetings without an agenda or clear goals.
