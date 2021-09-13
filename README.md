@@ -17,12 +17,11 @@ I travel to Tanzania once a year to spend time with family.
 ## **👨‍💻How I work**
 * Current Timezone - California Time
 * Work Hours - 8:30am - 4:30pm
-* Make Designs, not Meetings - As a designer, my primary work is to discover and create. I try block out my entire afternoons (1pm - 5pm) to design and not meet. I turn off my notifications so that I can better get into the flow. Please expect my responses on slack or email to be asynchronous during these hours. 
-* Family - I have a 1 year son, Robin, and my wife works full time on her own business. I take Robin every day from 12pm-1pm. Feel free to schedule meetings during this time, just know I’ll have a baby with me 
+<!-- * Family - I have a 1 year son, Robin, and my wife works full time on her own business. I take Robin every day from 12pm-1pm. Feel free to schedule meetings during this time, just know I’ll have a baby with me  -->
 * Collaboration - As much as I love working asynchronously,  I love collaborating. If we are both online, I’m very happy to jump on a call with you and work a problem out in the moment. 
 * Prototyping - As much as I can, I design in HTML and CSS. I’m a fan of Figma and other design tools but I feel like I can better communicate a design vision with clickable prototypes. 
 
 ## **📫 How to reach me**
 
-* Slack - Direct messages or mentions work great during the day. I keep Slack openall day but turn off notifications during my focus design hours (1pm - 5pm), so it may take some time before I respond.  
+* Slack - Direct messages or mentions work great during the day. I keep Slack open all day but turn off notifications during my focus design hours (1pm - 4pm), so it may take some time before I respond. 
 * Meetings - I’m happy to meet on zoom as much as necessary, but I’ll prioritize productivity over habit and will decline meetings without an agenda or clear goals.
