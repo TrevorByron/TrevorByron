@@ -6,7 +6,8 @@ I hope this document helps you know me a bit better and most importantly, how I 
 
 I am a designer, tinkerer, and builder. I was born in Nairobi, Kenya, and grew up in a remote Maasai village in the southern highlands called the Loita Hills.  I then lived in Lisbon, Portugal for six years before moving to the USA in 2007. 
 
-My path to design has been very much not straightforward. I've toured the USA multiple times playing music as a (https://open.spotify.com/artist/22FsgmdsdCGmi3SPwOVgBw?si=vBEnnSBcSsiX-M7GZJ4e9g&dl_branch=1 "singer-songwriter") , worked as a high-end Finish Carpenter, lead safaris in Tanzania, cleaned swimming pools in Dripping Springs, Texas, and worked a whole lot of other random jobs. 
+My path to design has been very much not straightforward. I've toured the USA multiple times playing music as a
+[singer-songwriter](https://open.spotify.com/artist/22FsgmdsdCGmi3SPwOVgBw?si=vBEnnSBcSsiX-M7GZJ4e9g&dl_branch=1), worked as a high-end Finish Carpenter, lead safaris in Tanzania, cleaned swimming pools in Dripping Springs, Texas, and worked a whole lot of other random jobs. 
 I currently work as a Senior UX Designer at Toro TMS. 
 Outside of work, I love riding mountain bikes and making things with my hands. 
 I travel to Tanzania once a year to spend time with family. 
