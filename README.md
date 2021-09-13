@@ -1,8 +1,8 @@
 **👋 About me**
+
 Hi, I’m @TrevorByron. I’m a big fan of async work practices and remote culture (my family lives all over the world and I do a lot of traveling to stay connected with them. Async+Remote has been very beneficial in staying connected with the people that mean the most to me).   I hope this document helps you know me a bit better and most importantly, how I work.
 
-
-✌️I am a designer, tinkerer, and builder. I was born in Nairobi, Kenya, and grew up in a remote Maasai village in the southern highlands called the Loita Hills.  I then lived in Lisbon, Portugal for six years before moving to the USA in 2007. 
+I am a designer, tinkerer, and builder. I was born in Nairobi, Kenya, and grew up in a remote Maasai village in the southern highlands called the Loita Hills.  I then lived in Lisbon, Portugal for six years before moving to the USA in 2007. 
 My path to design has been very much not straightforward. I've toured the USA multiple times playing music as a singer-songwriter, worked as a high-end Finish Carpenter, lead safaris in Tanzania, cleaned swimming pools in Dripping Springs, Texas, and worked a whole lot of other random jobs. 
 I currently work as a Senior UX Designer at Toro TMS. 
 Outside of work, I love riding mountain bikes and making things with my hands. 
