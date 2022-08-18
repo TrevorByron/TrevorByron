@@ -16,8 +16,8 @@ I travel to Tanzania once a year to spend time with family.
 
 ## **👨‍💻How I work**
 * Current Timezone - California Time
-* Work Hours - 8:30am - 4:30pm (California Time)
-<!-- * Family - I have a 1 year son, Robin, and my wife works full time on her own business. I take Robin every day from 12pm-1pm. Feel free to schedule meetings during this time, just know I’ll have a baby with me  -->
+* Work Hours - 7:00am - 2:00pm (California Time)
+<!-- * Family - I have a 2 year son, Robin, and my wife works full time on her own business. I take Robin every day from 2pm-5:30pm. I will likely be slow to respond during these hours.  -->
 * Collaboration - As much as I love working asynchronously,  I love collaborating. If we are both online, I’m very happy to jump on a call with you and work a problem out in the moment. 
 * Prototyping - As much as I can, I design in HTML and CSS. I’m a fan of Figma and other design tools but I feel like I can better communicate a design vision with clickable prototypes. 
 
